@@ -14,7 +14,7 @@ Built on the extensions platform of Wiremock, it allows your wiremock response t
 
 ##Usage
 
-[\[Download the system property extension jar file here.\]](https://github.com/rubengerits/system-property-extension/releases/download/system-property-extension-1.0.0/system-property-extension-1.0.0.jar)
+[\[Download the system property extension jar file here.\]](https://github.com/gerits/system-property-extension/releases/download/1.0.0/system-property-extension-1.0.0.jar)
 
 [\[Download the Wiremock standalone jar here.\]](http://repo1.maven.org/maven2/com/github/tomakehurst/wiremock-standalone/2.3.1/wiremock-standalone-2.3.1.jar)
 
