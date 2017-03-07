@@ -27,7 +27,7 @@ java -cp "system-property-extension-1.0.0.jar:wiremock-2.3.1-standalone.jar" com
 
 For Windows:
 ```
-java -cp "wiremock-body-transformer-1.1.5.jar;wiremock-2.3.1-standalone.jar" com.github.tomakehurst.wiremock.standalone.WireMockServerRunner --verbose --extensions be.rubengerits.wiremock.SystemPropertyTransformer
+java -cp "system-property-extension-1.0.0.jar;wiremock-2.3.1-standalone.jar" com.github.tomakehurst.wiremock.standalone.WireMockServerRunner --verbose --extensions be.rubengerits.wiremock.SystemPropertyTransformer
 ```
 
 Add the transformer into the specific stub via the "system-property-transformer" name.
